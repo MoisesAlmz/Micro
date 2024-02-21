@@ -1,3 +1,4 @@
+
 #include <stdio.h>
 #include <stdlib.h>
 #define ESTADO_ERROR        0
@@ -241,6 +242,5 @@ void intGeneral100ms(void)
     }
     
 }
-
 
 
